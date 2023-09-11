@@ -17,6 +17,6 @@ public class ReverseEncryptorDecorator extends EncryptorDecorator {
     @Override
     public String decrypt(String encryptedData) {
         System.out.println("ReverseEncryptorDecorator decrypt");
-        return super.decrypt(StringUtils.reverse(encryptedData));
+        return StringUtils.reverse(super.decrypt(encryptedData));
     }
 }
