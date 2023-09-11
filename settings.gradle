@@ -1,2 +1,6 @@
 rootProject.name = 'lec2example'
+include 'adapter'
+include 'bridge'
+include 'composite'
+include 'decorator'
 

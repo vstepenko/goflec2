@@ -1,0 +1,7 @@
+/.idea/
+/.gradle/
+
+/adapter/build/
+/bridge/build/
+/composite/build/
+/decorator/build/

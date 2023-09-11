@@ -9,6 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter" />
+            <option value="$PROJECT_DIR$/bridge" />
+            <option value="$PROJECT_DIR$/composite" />
+            <option value="$PROJECT_DIR$/decorator" />
           </set>
         </option>
       </GradleProjectSettings>
