@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Drawing implements Car {
 
-    private List<Car> cars = new ArrayList<Car>();
+    private List<Car> cars = new ArrayList<>();
 
     @Override
     public void draw(String color) {
